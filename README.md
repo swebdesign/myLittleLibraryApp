@@ -1,5 +1,6 @@
 # myLittleLibraryApp
 application de gestion de bibliothèque 
+
 🎯 Description générale
 L’application de gestion de bibliothèque basée sur Next.js est une solution moderne et performante pour faciliter la gestion des livres, des membres, des emprunts et des retours au sein d’une bibliothèque. Grâce à la puissance de Next.js, cette application bénéficie d’une interface utilisateur réactive, d’un temps de chargement rapide, et de fonctionnalités optimisées pour le SEO.
 
