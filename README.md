@@ -6,31 +6,31 @@ L’application de gestion de bibliothèque basée sur Next.js est une solution 
 
 🚀 Fonctionnalités principales
 1.	Gestion des livres
-	•	Ajout, modification et suppression de livres.
-	•	Recherche avancée par titre, auteur, catégorie, ISBN, etc.
-	•	Filtrage des livres par genre, disponibilité, date de publication, etc.
-	•	Possibilité d’importer une liste de livres via un fichier CSV.
-2.	Gestion des membres
+	Ajout, modification et suppression de livres.
+	Recherche avancée par titre, auteur, catégorie, ISBN, etc.
+	Filtrage des livres par genre, disponibilité, date de publication, etc.
+	Possibilité d’importer une liste de livres via un fichier CSV.
+3.	Gestion des membres
 	•	Enregistrement des membres avec des informations telles que nom, email, adresse, numéro de téléphone, etc.
 	•	Visualisation de l’historique des emprunts pour chaque membre.
 	•	Fonctionnalité de recherche et filtrage des membres.
 	•	Envoi de notifications par email pour les rappels d’échéances.
-3.	Gestion des emprunts et des retours
+4.	Gestion des emprunts et des retours
 	•	Suivi des emprunts et des retours avec la possibilité de définir des durées de prêt personnalisées.
 	•	Notifications pour les livres en retard ou les réservations disponibles.
 	•	Statistiques sur les livres les plus empruntés, les membres les plus actifs, etc.
-4.	Tableau de bord (Dashboard)
+5.	Tableau de bord (Dashboard)
 	•	Vue d’ensemble des indicateurs clés : nombre de livres, membres, emprunts en cours, etc.
 	•	Graphiques et statistiques sur l’activité de la bibliothèque.
 	•	Accès rapide aux livres récemment ajoutés, emprunts récents, et membres inscrits.
-5.	Gestion des catégories et des auteurs
+6.	Gestion des catégories et des auteurs
 	•	Création, modification et suppression de catégories de livres (fiction, non-fiction, science, etc.).
 	•	Gestion des fiches auteurs avec une biographie, des livres associés, etc.
-6.	Authentification et autorisation
+7.	Authentification et autorisation
 	•	Authentification via JWT (JSON Web Tokens) ou NextAuth.js.
 	•	Gestion des rôles (administrateur, bibliothécaire, membre) avec des accès restreints en fonction des privilèges.
 	•	Inscription des nouveaux utilisateurs avec vérification par email.
-7.	Fonctionnalités avancées
+8.	Fonctionnalités avancées
 	•	Mode hors ligne avec support de PWA (Progressive Web App).
 	•	Intégration avec une base de données comme MongoDB, PostgreSQL, ou MySQL.
 	•	Internationalisation (i18n) pour supporter plusieurs langues (français, anglais, etc.).
